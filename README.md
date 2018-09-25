@@ -17,8 +17,8 @@ Windows 64 bit
 
 ## Description
 
-After execute the application, there will be a menu in the console (Windows command shell) for you to choose what you want to obtain.
+After execute the application, there will be two menus in the console (Windows command shell) for you to choose what you want to obtain. One for UPC or UPV, the other for global or regional.
 
-A txt file contains the coordinates will be generated in the same folder where game_log.tsv is stored. Copy/Paste its content into your IITC draw tool for visualization. Note: purple marker stands for the portal you''ve ever captured while red one stands for the portal you''ve ever visited but have not captured yet.
+A txt file contains the coordinates will be generated in the same folder where game_log.tsv is stored. Copy/Paste its content into your IITC draw tool for visualization. Note: purple marker stands for the portal you've ever captured while red one stands for the portal you've ever visited but have not captured yet.
 
 Have fun.
