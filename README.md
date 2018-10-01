@@ -36,4 +36,7 @@ Have fun.
 
 ## For MATLAB Users
 
-[ScriptForMatlabUser.m](https://github.com/chouj/UPC-UPV-for-IITC/blob/master/ScriptForMatlabUser.m)
+Modify and run [ScriptForMatlabUser.m](https://github.com/chouj/UPC-UPV-for-IITC/blob/master/ScriptForMatlabUser.m) to generate map like this:
+
+![Tianhe_Instance](https://github.com/chouj/UPC-UPV-for-IITC/blob/master/ProcedureImages/Tianhe_Instance.png)
+
