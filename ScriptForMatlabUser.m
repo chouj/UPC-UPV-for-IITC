@@ -142,4 +142,7 @@ clear londata latdata clon ialon iblon clat ialat iblat index lonunique latuniqu
 plot_google_map('maptype', 'roadmap');
 zoomHandle = zoom;
 set(zoomHandle, 'ActionPostCallback', @update_google_map);
+
+legend('UPC','Only UPV','Fired weapon','Login');
+
 % export_fig f:\test_v1 -png -r300 -q111 -transparent
