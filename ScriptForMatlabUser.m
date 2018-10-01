@@ -1,3 +1,16 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% MATLAB script for generating map of UPC, UPV, etc. based on your private 
+% Ingress GDPR Data.
+%
+% Denpendencies:
+% * https://www.mathworks.com/matlabcentral/fileexchange/27627-zoharby-plot_google_map
+% * https://www.mathworks.com/matlabcentral/fileexchange/65234-adclose-mars2wgs
+% * https://www.mathworks.com/matlabcentral/fileexchange/23629-export_fig 
+%
+% Author: https://github.com/chouj 2018.10.01
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
 s=input('Input path of the folder where game_log.tsv is stored: ','s');
 while exist(s, 'dir')~=7
     s=input('Folder does not exist. Re-enter: ','s');
