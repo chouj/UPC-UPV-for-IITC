@@ -27,6 +27,11 @@ A txt file contains the coordinates will be generated in the same folder where `
 
 Have fun.
 
+## Known Issues
+
+- Pins do not fall 100% on the IITC portals.
+- If you got a txt file larger than 500 KB, probably you should try use regional output to avoid IITC frozen/crashed.
+
 ## Inspired by
 [IngressDataDumpExplorer](https://github.com/Maxr1998/IngressDataDumpExplorer)
 
@@ -43,6 +48,16 @@ Modify and run [ScriptForMatlabUser.m](https://github.com/chouj/UPC-UPV-for-IITC
 #### Denpendencies:
 
 [plot_google_map](https://www.mathworks.com/matlabcentral/fileexchange/27627-zoharby-plot_google_map) / [mars2wgs](https://www.mathworks.com/matlabcentral/fileexchange/65234-adclose-mars2wgs) / [export_fig](https://www.mathworks.com/matlabcentral/fileexchange/23629-export_fig)
+
+## Thanks for valuable responses from these agents
+
+<font color=#0000ff>@AlexRowe</font>
+
+## Similar Projects for you to choose
+
+- [IngressDataDumpExplorer](https://github.com/Maxr1998/IngressDataDumpExplorer)
+
+- [upvmap](https://github.com/yuehuTi/upvmap)
 
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/Mesoscale)
