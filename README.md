@@ -13,7 +13,7 @@ Windows 64 bit
 
 ```UPCUPVforIITC.exe``` One can try execute this if MATLAB or [MATLAB Runtime](https://ww2.mathworks.cn/products/compiler/matlab-runtime.html) has been installed already. However, it would fail if the version of MATLAB or MATLAB Runtime is not appropriate.
 
-```UPCUPVforIITC_APPInstaller_web.exe``` Application installer. The [MATLAB Runtime](https://ww2.mathworks.cn/products/compiler/matlab-runtime.html) will be installed alongside. "_The MATLAB Runtime is a standalone set of shared libraries that enables the execution of compiled MATLAB applications or components on computers that do **not** have MATLAB installed._"
+```UPCUPVforIITC_APPInstaller_web.exe``` If you do not have MATLAB or MATLAB Runtime on your PC, you only need to download and run this application installer. The [MATLAB Runtime](https://ww2.mathworks.cn/products/compiler/matlab-runtime.html) will be installed alongside. "_The MATLAB Runtime is a standalone set of shared libraries that enables the execution of compiled MATLAB applications or components on computers that do **not** have MATLAB installed._" After installation, you can find ```UPCUPVforIITC.exe``` at your install path.
 
 ## Description
 
@@ -55,7 +55,9 @@ Modify and run [ScriptForMatlabUser.m](https://github.com/chouj/UPC-UPV-for-IITC
 
 ## Thanks for valuable responses from these Agents
 
-![](https://img.shields.io/badge/Agent-@AlexRowe-blue.svg?longCache=true&style=popout) ![](https://img.shields.io/badge/Agent-@8K4T7-blue.svg?longCache=true&style=popout) 
+![](https://img.shields.io/badge/Agent-@AlexRowe-blue.svg?longCache=true&style=popout) ![](https://img.shields.io/badge/Agent-@TheRedSeven-blue.svg?longCache=true&style=popout) 
+![](https://img.shields.io/badge/Agent-@mimtwin-blue.svg?longCache=true&style=popout) 
+![](https://img.shields.io/badge/Agent-@8K4T7-blue.svg?longCache=true&style=popout) 
 
 ## Similar Projects for you to choose
 
