@@ -1,5 +1,5 @@
 # UPC/UPV for IITC
-###### An Windows command line tool for generating coordinate information of UPC / UPV for IITC according to your private Ingress GDPR data.
+###### A Windows command line tool for generating coordinate information of UPC / UPV for IITC according to your private Ingress GDPR data.
 
 ## Compatibility
 #### MATLAB Release Compatibility
