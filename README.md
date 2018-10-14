@@ -49,14 +49,13 @@ Modify and run [ScriptForMatlabUser.m](https://github.com/chouj/UPC-UPV-for-IITC
 
 [plot_google_map](https://www.mathworks.com/matlabcentral/fileexchange/27627-zoharby-plot_google_map) / [mars2wgs](https://www.mathworks.com/matlabcentral/fileexchange/65234-adclose-mars2wgs) / [export_fig](https://www.mathworks.com/matlabcentral/fileexchange/23629-export_fig)
 
-## Thanks for valuable responses from these agents
+## Thanks for valuable responses from these Agents
 
 ![](https://img.shields.io/badge/Agent-@AlexRowe-blue.svg?longCache=true&style=popout) ![](https://img.shields.io/badge/Agent-@8K4T7-blue.svg?longCache=true&style=popout) 
 
 ## Similar Projects for you to choose
 
 - [IngressDataDumpExplorer](https://github.com/Maxr1998/IngressDataDumpExplorer)
-
 - [upvmap](https://github.com/yuehuTi/upvmap)
 
 
