@@ -51,7 +51,7 @@ Modify and run [ScriptForMatlabUser.m](https://github.com/chouj/UPC-UPV-for-IITC
 
 ## Thanks for valuable responses from these agents
 
-<font color=#0000ff>@AlexRowe</font>
+![](https://img.shields.io/badge/Agent-@AlexRowe-blue.svg?longCache=true&style=popout) ![](https://img.shields.io/badge/Agent-@8K4T7-blue.svg?longCache=true&style=popout) 
 
 ## Similar Projects for you to choose
 
