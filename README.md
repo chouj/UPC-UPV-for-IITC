@@ -61,7 +61,7 @@ Modify and run [ScriptForMatlabUser.m](https://github.com/chouj/UPC-UPV-for-IITC
 
 ## Similar Projects for you to choose
 
-- ![](https://github.com/chouj/UPC-UPV-for-IITC/blob/master/ProcedureImages/919853.png)[IngressDataDumpExplorer](https://github.com/Maxr1998/IngressDataDumpExplorer)
+- <img src="https://github.com/chouj/UPC-UPV-for-IITC/blob/master/ProcedureImages/919853.png" width="128"></img>[IngressDataDumpExplorer](https://github.com/Maxr1998/IngressDataDumpExplorer)
 - ![](https://github.com/chouj/UPC-UPV-for-IITC/blob/master/ProcedureImages/python.svg)[upvmap](https://github.com/yuehuTi/upvmap)
 - ![](https://github.com/chouj/UPC-UPV-for-IITC/blob/master/ProcedureImages/ruby.svg)[ingressUPCUPV_map](https://github.com/tolves/ingressUPCUPV_map)
 
