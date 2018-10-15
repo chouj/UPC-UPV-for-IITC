@@ -61,11 +61,11 @@ Modify and run [ScriptForMatlabUser.m](https://github.com/chouj/UPC-UPV-for-IITC
 
 ## Similar Projects for you to choose
 
-<img src="https://github.com/chouj/UPC-UPV-for-IITC/blob/master/ProcedureImages/919853.png" width="32"></img> [IngressDataDumpExplorer](https://github.com/Maxr1998/IngressDataDumpExplorer)
+<img src="https://github.com/chouj/UPC-UPV-for-IITC/blob/master/ProcedureImages/919853.png" width="16"></img> [IngressDataDumpExplorer](https://github.com/Maxr1998/IngressDataDumpExplorer)
 
-<img src="https://github.com/chouj/UPC-UPV-for-IITC/blob/master/ProcedureImages/python.svg" width="32"></img> [upvmap](https://github.com/yuehuTi/upvmap)
+<img src="https://github.com/chouj/UPC-UPV-for-IITC/blob/master/ProcedureImages/python.svg" width="16"></img> [upvmap](https://github.com/yuehuTi/upvmap)
 
-<img src="https://github.com/chouj/UPC-UPV-for-IITC/blob/master/ProcedureImages/ruby.svg" width="32"></img> [ingressUPCUPV_map](https://github.com/tolves/ingressUPCUPV_map)
+<img src="https://github.com/chouj/UPC-UPV-for-IITC/blob/master/ProcedureImages/ruby.svg" width="16"></img> [ingressUPCUPV_map](https://github.com/tolves/ingressUPCUPV_map)
 
 ## Support ME !
 
